@@ -1,0 +1,67 @@
+PRODUCTION_ORDER_LIST
+{
+    PRODUCTION_ORDER
+    {
+    PRODUCTION_ORDER_CODE  1001
+    PRODUCTION_ORDER_DESCR  Production 2 
+
+    TRNS
+    {
+
+    TRN
+    {
+    RESOURCE_CODE 1101
+    TIME 12.37
+    DATE 2014-05-06
+    }
+
+    TRN
+    {
+    RESOURCE_CODE 1002
+    TIME 12.33
+    DATE 2014-03-06
+    }
+
+    TRN
+    {
+    RESOURCE_CODE 1002
+    TIME 15.45
+    DATE 2014-05-06
+    }
+}
+
+
+
+
+
+
+PRODUCTION_ORDER
+    {
+    PRODUCTION_ORDER_CODE  178
+    PRODUCTION_ORDER_DESCR  Production 88
+
+    TRNS
+    {
+
+    TRN
+    {
+    RESOURCE_CODE 178
+    TIME 788888888
+    DATE 2014-06-06
+    }
+
+    TRN
+    {
+    RESOURCE_CODE 1002
+    TIME 12.33
+    DATE 2014-05-06
+    }
+
+    TRN
+    {
+    RESOURCE_CODE 1002
+    TIME 15.45
+    DATE 2014-05-09
+    }
+}
+}
